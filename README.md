@@ -1,6 +1,6 @@
 # C Project Template
 
-This repository provides a clean and organized template for C projects. It includes a well-structured folder hierarchy, a `Makefile` for build automation, and guidelines for customizing your project according to your needs.
+This repository provides a clean and organized template for C projects. It includes a well-structured folder hierarchy, a `Makefile` for build automation, and guidelines for customizing your (read: myself:> ) project according to your needs.
 
 ## Folder Structure
 ```
