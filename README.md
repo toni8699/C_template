@@ -1,4 +1,4 @@
-# Comp310Test
+# C project structure template
 
 
 
