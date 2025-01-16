@@ -10,7 +10,7 @@ CFLAGS = -g -Wall -Wextra -Werror -I$(IDIR)
 # Define the libraries to link
 LIBS =
 
-# Define the program name
+# Define the program name here
 TARGET = program_name
 
 # Get a list of all the source files in the src directory
