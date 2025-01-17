@@ -1,11 +1,10 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include "foo.h"
-
+ #include <stdio.h>
+ #include "foo.h"
 
  int main (){
-    int A = 0;
-    foo(A);
-    printf("a : %d\n", A);
-    printf("testing changes\n");
-}
+    int i = bar (2);
+    printf("%d\n", i);
+    char* s = foo (2);
+    printf("%s\n", s);
+    return 0;
+ }
