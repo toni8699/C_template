@@ -28,7 +28,7 @@ project/
 - Add  header files to the `include/` directory.
 - Modify the `Makefile` as needed for your project.
 
-_ Once the build process completes,  run the executables:
+- Once the build process completes,  run the executables:
 
 Run the main program:
  ```sh
