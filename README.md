@@ -1,6 +1,6 @@
 # C Project Template
 
-This repository provides a clean and organized template for C projects. It includes a well-structured folder hierarchy, a `Makefile` for build automation, and guidelines for customizing your (read: myself:> ) project according to your needs.
+This repository provides a clean and organized template for C projects. It includes a well-structured folder hierarchy, a `Makefile` for build automation, and guidelines for customizing your (read: myself.. ) project according to your needs.
 
 ## Folder Structure
 ```
@@ -22,34 +22,21 @@ project/
 
 ---
 
-## Getting Started
+### Usage
 
-### Prerequisites
-
-- GCC (GNU Compiler Collection)
-- Make
-
-#### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/toni8699/C_template.git
-    cd C_template
-    ```
-
-2. Build the project:
-    ```sh
-    make
-    ```
-
-3. Run the compiled binary:
-    ```sh
-    ./bin/your_executable
-    ```
-
-## Usage
-
-- Add your C source files to the `src/` directory.
-- Add your header files to the `include/` directory.
+- Add  C source files to the `src/` directory.
+- Add  header files to the `include/` directory.
 - Modify the `Makefile` as needed for your project.
+
+_ Once the build process completes,  run the executables:
+
+Run the main program:
+ ```sh
+./bin/program_name
+```
+Run the tests:
+```sh
+./bin/test
+```
+
 
